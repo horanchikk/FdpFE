@@ -1,6 +1,6 @@
 ﻿# FdpFE
 
-FdpFE (Fdp For Everyone) - it is a project, that helping users download latest versions directly from nightly.link, without using a website.
+FdpFE (Fdp For Everyone) - it is a project, that helping users download latest versions directly from nightly.link, without using a website getfdp.today.
 
 # Why has been created FdpFE?
 
