@@ -4,7 +4,7 @@ FdpFE (Fdp For Everyone) - it is a project, that helping users download latest v
 
 # Why has been created FdpFE?
 
-Some russian users can not download latest release from getfdp.today. We're taking care of it and created simple script, which allows you to download the latest versions of the FDPClient.
+Some russian users can't download latest release from getfdp.today. We're taking care of it and created simple script, which allows you to download the latest versions of the FDPClient.
 
 # How to use?
 
