@@ -8,9 +8,7 @@ Some russian users can't download latest release from getfdp.today. We're taking
 
 # How to use?
 
-You can download latest build from https://github.com/horanDEV/FdpFE/releases or just use a python script.
-
-If you want to use a python script, it is required to perform a few actions.
+Just use a simple python script, but it is required to perform a few actions.
 
 ```sh
 pip install rich
