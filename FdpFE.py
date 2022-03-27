@@ -12,7 +12,7 @@ logging.basicConfig(
     level="NOTSET", format=FORMAT, datefmt="[%X]", handlers=[RichHandler()]
 )
 log = logging.getLogger("rich")
-console.print('[bold blue] Welcome [bold red] to [bold green] FDPDownloader[bold white]!\n')
+console.print('[bold blue] Welcome [bold red] to [bold green] FDPFE[bold white]!\n')
 log.info('Requesting to github...')
 data = json.loads(urllib.request.urlopen('https://api.github.com/repos/UnlegitMC/FDPClient/actions/runs').read().decode())
 clear()
