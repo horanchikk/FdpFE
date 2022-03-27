@@ -14,3 +14,9 @@ Just use a simple python script, but it is required to perform a few actions.
 pip install rich
 python FdpFE.py
 ```
+
+Here you can see full functional: 
+https://terminalizer.com/view/b2d6dfd45640
+
+Or here, but with install only latest build:
+https://terminalizer.com/view/10ed36fb5639
